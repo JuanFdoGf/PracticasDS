@@ -5,7 +5,7 @@ def obtener_estudiantes(cantidad_de_estudiantes):
     Args:
         cantidad_de_estudiantes (int): El número de estudiantes a ingresar.
     Returns:
-        tuple: Una tupla con el nombre del asistente y el nombre del profesor.
+        tuple: Una tupla con el nombre del asistente y el nombre del profesor.1234567890
     """
     if cantidad_de_estudiantes <= 0:
         raise ValueError("La cantidad de estudiantes debe ser un número positivo.")
