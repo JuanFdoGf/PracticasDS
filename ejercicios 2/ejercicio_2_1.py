@@ -2,7 +2,7 @@
 #uno de ellos sera el profesor y otro su asistente.
 
 # A. Pedir el nombre y la edad de los estudiantes que vinieron a clase y ordenar los datos de menor a mayor.
-# B. El mayor de la clase sera el profesor y el menor su asistente: Indicar sus nombres.
+# B. El mayor de la clase sera el profesor y el menor su asistente: Indicar sus nombres.1234567890
 
 def obtener_estudiantes(cantidad_de_estudiantes):
     

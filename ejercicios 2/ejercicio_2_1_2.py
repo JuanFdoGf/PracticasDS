@@ -3,7 +3,7 @@ def obtener_estudiantes(cantidad_de_estudiantes):
     Solicita la información de una cantidad específica de estudiantes, los ordena por edad
     y retorna el nombre del estudiante más joven (asistente) y el más viejo (profesor).
     Args:
-        cantidad_de_estudiantes (int): El número de estudiantes a ingresar.
+        cantidad_de_estudiantes (int): El número de estudiantes a ingresar.123456
     Returns:
         tuple: Una tupla con el nombre del asistente y el nombre del profesor.1234567890
     """
